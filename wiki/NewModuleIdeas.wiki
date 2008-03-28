@@ -1,4 +1,4 @@
-#New RAPIER Module Ideas
+=New RAPIER Module Ideas=
 
 = Introduction =
 
@@ -9,6 +9,6 @@ RAPIER is completely modular by design.  In order to make RAPIER a more extensiv
 
 Modules to add to RAPIER 3.3:
   * *IISLogs* - captures the applicable IIS access and error logs
-  * *ApacheLogs* - captures the applicable Apache access and error logs (note that since there is no default location for Apache, this might be hard to implement short of scanning the whole drive for logs)
+  * *ApacheLogs* - captures the applicable Apache access and error logs.  Note that since there is no default location for Apache, this might be hard to implement short of scanning the whole drive for logs
   * *Opera* - Opera web browser history and cookies
   * *Safari* - Safari web browser history and cookies
